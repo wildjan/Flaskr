@@ -1,2 +1,2 @@
 # Flaskr
-Python Flask Projrct
+Python Flask Project
