@@ -35,6 +35,7 @@
     <Compile Include="test_flaskr.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="db\flaskr.db" />
     <Content Include="requirements.txt" />
     <Content Include="schema.sql" />
     <Content Include="static\style.css" />
